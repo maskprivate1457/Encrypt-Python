@@ -11,4 +11,4 @@ Script Encrypt Python Versi 1.0
 
 5.pip install str
 
-6.python encrypt.py 
+6.python python.py 
