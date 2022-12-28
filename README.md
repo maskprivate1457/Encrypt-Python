@@ -9,4 +9,6 @@ Script Encrypt Python Versi 1.0
 
 4.cd Encrypt-Python
 
-5.python encrypt.py 
+5.pip install str
+
+6.python2 encrypt.py 
